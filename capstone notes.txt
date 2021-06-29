@@ -1,0 +1,160 @@
+capstone notes
+
+statistics--- hockey-reference.com
+salary--- capfriendly.com
+
+NOTE:
+no 2007-08 shootout statistics
+no corsi/fenwick (adv) before 2008-09
+no misc before 2014-15
+
+
+NEED TO INCLUDE WHAT CURRENT CONTRACT IS FOR EACH SEASON???
+---like if didnt sign that year, should you have your current contract aav? or how many years left? or what the deal is ?
+
+How to order by season
+should i make a massive "if" statement that makes the salrary prediction contingent on the players position?
+
+
+---> for 3 year learing curve before ==> 08-09, 09-10, 10-11
+---> model will then use 11-12 to 20-21 (10 season)
+
+goalie columns
+age = age
+tm= team
+gp= games played
+gs= games started
+w= wins
+l= losses
+t/o = ties plus overtime losses
+ga= goals against
+sa= shots against
+sv= saves
+sv%= save percentage
+gaa= goals against average
+so= shutouts
+gps= goalie point shares ;an estimate of the number of points contributed by a player due to his play in goal
+min= minutes
+qs= quality starts; starts with sv% > average sv% for the year, or at least 88.5% on nights with 20 or fewer shots against
+qs%= quality start percentage; qs/gs > 60% good, <50% bad, ~53% league average
+rbs= really bad starts; starts with a sv% below 85%
+ga%-= ga pct- is goals allowed % relative to league goals allowed %; lower is better, 100 is exactly ave3rage, 0 means you have saved 100% of shots faced; min 4 shots faced per team game needed to qualify
+gsaa= goals saved above average; the goals this goalie prevented given his save percentage and shots faced bs the league average save percentage on the same number of shots; min 4 shots faced per team game needed to qualify
+scoring ==> g,a, pts, pim
+
+shootout results
+--player
+tm= team 
+att.= attempts
+made= shots made
+miss= shots missed or stopped
+pct= % of shootout attempts converted
+
+--goalie
+team= team
+att= attempts
+made= shootout shots made
+miss= shootout shots missed or stopped
+pct= % of shootout attempts faced taht were stopped 
+
+
+players
+-scoring
+age= age of that player at time of finale
+gp= games played
+g= goals
+a= assists
+pts= points
++/-= plus minus
+pim= pentalty minutes
+ps = point shares; an estimate of the number of points contributed by a player
+ev= even strength goals
+-special teams
+pp = power play goals
+sh= short handed goals
+- -
+gw= game winning goals
+- - 
+-assists
+ev= even strength assists
+pp= power play assists
+sh= short handed assists
+-shot data
+s= shots on goal
+s%= shooting percentage
+-ice time
+toi= time on ice (in minutes)
+atoi= average time on ice
+- - 
+blk= blocks
+hit= hits
+fow= faceoff wins
+fol= face off losses
+fo%= face off percentage
+
+players adv
+pos= player position
+gp= games played
+-corsi (ev)
+cf= corsi for at even strength; shots + blocks + misses
+ca= corsi against at even strength; shots + blocks + misses
+cf%= corsi for % at even strength; cf/(cf+ca) ; above 50% means the team was controlling teh puck more often than not with this player on the ice in this situation
+cf% rel= relative corsi for % at even strength ; cf% - CFoff%; on ice corsi for % - off ice corsi for %
+-fenwick (ev)
+ff= fenwick for at even strength; shots + misses
+fa= fenwick against at even strength; shots + misses
+ff%= fenwick for % at even strength; ff/ (ff +FA); above 50% means the team was controlling the puck more often than not with this player on the ice in this situation
+FF% rel= relative fenwick for % ; ff%- ffoff%; on ice fenwick for % = off ice fenwick for %
+-PDO ()
+oish%= team on ice shooting percentage; shooting % while this plaer/team was on the ice
+oisv%= team on ice save percentage; save % while this player/team was on the ice 
+- -
+PDO= PDO; shooting% + save % ??????
+-zone starts (ev)
+ozs%= ofensive zone start %; offensive zone faceoffs/(offensive zone faceoffs + defensive zone faceoffs), that took place while on the ice 
+dzs%= defensive zone start %; defensive zone faceoffs/ (offensive zone faceoffs + defensevie zone faceoffs)< that took place while on the ice 
+- -
+toi/60= toi/60 in all situations; time on ice per 60 min
+toi(ev)= toi/60 at even strength; time on ice per 60 min
+- - 
+TK=takewaways
+gv= giveaways
+e+/- = expected +/-  given where shots came from, for and against, while this player was on the ice at even strength; its based on where the shots are coming from, compared to the league wide shooting percentage for taht shot location
+satt= total shots attempted in all sitautions
+thru%= percentage of shots taken that go on net
+
+
+
+
+take into account state/local taxes for each team (so you can tell how much they take hoem overall)
+--need knowledge of tax brackets?
+
+take into account inflation for the year ??
+take into account average/median and how far each player deviated from it
+--- (histogram with red line)
+
+
+**** need to drop duplicates of player stats
+--- keep "TOT" but remove individual team stats
+
+add column for whether/how many individual awards each player won that year
+include a column for if that player won the stanley cup that season
+---and/or include a column for amount of stanley cups/playoff games each player has up to that point in time
+
+ need to add in shootout data to goalies and players
+need to merge all players together
+---should i only do skaters or should i include goalies?
+
+need to add year column to each stat sheet then merge all together on player and year
+
+need to add corsi and fenwick and other advanced stats to regular stats
+
+include penalty shot and hattrick info
+ add miscellaneous statsitics page to overall stat sheet
+
+2004-2005 LOCKOUT YEAR
+
+include all star/olympic nominations???
+
+
+
