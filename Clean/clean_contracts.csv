@@ -4,10 +4,7 @@ Daniel Briere,28,C,BUF,2006-08-03,Standard,1-way,1,5000000,5000000
 Brad Boyes,24,"RW, C",BOS,2006-08-04,Standard,1-way,2,3000000,1500000
 Marc-André Fleury,21,G,PIT,2006-08-05,Standard,1-way,2,2598500,1294750
 Milan Jurcina,23,D,BOS,2006-08-07,Standard,1-way,1,500000,500000
-Michael Sauer,19,D,NYR,2006-08-08,Entry-Level,2-way,3,1770000,590000
 Christian Backman,26,LD,STL,2006-08-09,Standard,1-way,3,6900000,2300000
-Nate Guenin,23,RD,PHI,2006-08-16,Entry-Level,2-way,2,1700000,585000
-Phil Kessel,18,RW,BOS,2006-08-17,Entry-Level,2-way,3,6600000,850000
 Kevin Bieksa,25,RD,VAN,2006-08-17,Standard,1-way,2,1050000,525000
 Patrice Bergeron,21,C,BOS,2006-08-22,Standard,1-way,5,23750000,4750000
 Johan Franzen,26,"RW, LW",DET,2006-08-25,Standard,1-way,3,2825000,941667
@@ -23,364 +20,147 @@ Matt Stajan,22,C,TOR,2006-09-13,Standard,1-way,2,1750000,875000
 Ryan Kesler,21,"C, RW",VAN,2006-09-14,Standard,1-way,1,1900000,1900000
 Tim Gleason,23,D,LAK,2006-09-17,Standard,1-way,2,2350000,1175000
 Dustin Brown,21,"RW, LW",LAK,2006-09-17,Standard,1-way,2,2350000,1175000
-Derick Brassard,18,"LW, C",CBJ,2006-09-21,Entry-Level,2-way,3,3740000,821667
 Dan Hamhuis,23,LD,NSH,2006-09-21,Standard,1-way,4,8000000,2000000
-Oskars Bartulis,20,D,PHI,2006-09-23,Entry-Level,2-way,3,1550000,516666
-Darren Helm,19,"C, LW, RW",DET,2006-09-27,Entry-Level,2-way,3,1798332,597833
-Michael Grabner,18,"LW, RW",VAN,2006-09-28,Entry-Level,2-way,3,2700000,850000
 Nikolai Zherdev,21,LW,CBJ,2006-09-28,Standard,1-way,3,7500000,2500000
-Guillaume Latendresse,19,LW,MTL,2006-09-29,Entry-Level,2-way,3,2550000,850000
-Jordan Staal,17,"C, LW",PIT,2006-10-02,Entry-Level,2-way,3,6600000,850000
-Kris Letang,19,RD,PIT,2006-10-02,Entry-Level,2-way,3,2505000,638333
 Brian Gionta,27,RW,NJD,2006-10-03,Standard,1-way,3,12000000,4000000
 Paul Martin,25,LD,NJD,2006-10-03,Standard,1-way,1,2000000,2000000
-Jonathan Bernier,18,G,LAK,2006-10-13,Entry-Level,2-way,3,2700000,850000
 Tuomo Ruutu,23,"LW, RW",CHI,2006-10-13,Standard,1-way,2,3750000,1875000
-James Neal,19,"RW, LW",DAL,2006-10-20,Entry-Level,2-way,3,2465000,646667
-Cal O'Reilly,20,C,NSH,2006-11-06,Entry-Level,2-way,3,1600000,500000
-Brendan Mikkelson,19,D,ANA,2006-11-30,Entry-Level,2-way,3,1845000,615000
-Derek Joslin,19,LD,SJS,2006-12-28,Entry-Level,2-way,3,1550000,516667
 Ryan Craig,25,C,TBL,2007-08-06,Standard,1-way,1,850000,850000
 Mike Cammalleri,25,"LW, C",LAK,2007-08-07,Standard,1-way,2,6700000,3350000
-Zach Hamill,18,C,BOS,2007-08-08,Entry-Level,2-way,3,4125000,875000
 Mike Weaver,29,D,PIT,2007-08-08,Standard,2-way,1,600000,600000
-Geoff Paukovich,21,LW,EDM,2007-08-08,Entry-Level,2-way,3,1810000,603333
 Andy Sutton,32,D,NYI,2007-08-10,Standard,1-way,3,9000000,3000000
 James Wisniewski,23,RD,CHI,2007-08-10,Standard,1-way,1,650000,650000
-Jim O'Brien,18,C,OTT,2007-08-13,Entry-Level,2-way,3,2625000,679167
 Pierre-Alexandre Parenteau,24,RW,CHI,2007-08-13,Standard,2-way,1,550000,550000
-Mike Weber,20,LD,BUF,2007-08-15,Entry-Level,2-way,3,2250800,558333
 Paul Martin,26,LD,NJD,2007-08-16,Standard,1-way,3,11500000,3833333
-Tanner Glass,23,LW,FLA,2007-08-16,Entry-Level,2-way,2,1140000,520000
-Chris Porter,23,LW,STL,2007-08-21,Entry-Level,2-way,2,1750000,875000
 Stephen Weiss,24,C,FLA,2007-08-23,Standard,1-way,6,18600000,3100000
 John Erskine,27,D,WSH,2007-08-27,Standard,1-way,2,1075000,537500
 Keith Ballard,24,D,ARI,2007-08-29,Standard,1-way,2,4550000,2275000
 Jussi Jokinen,24,"LW, RW",DAL,2007-08-30,Standard,1-way,2,3625000,1812500
-David Perron,19,"RW, LW",STL,2007-09-05,Entry-Level,2-way,3,2755000,875000
 Noah Welch,25,LD,FLA,2007-09-12,Standard,1-way,2,1300000,650000
-James Sheppard,19,C,MIN,2007-09-29,Entry-Level,2-way,3,4200000,850000
-Sam Gagner,18,"C, RW",EDM,2007-10-01,Entry-Level,2-way,3,4875000,875000
 Adam Hall,27,RW,PIT,2007-10-01,Standard,2-way,1,525000,525000
-Nick Palmieri,18,RW,NJD,2007-10-05,Entry-Level,2-way,3,1780000,850000
-Dustin Jeffrey,19,C,PIT,2007-10-05,Entry-Level,2-way,3,1555000,510000
 David Tanabe,26,D,CAR,2007-10-06,Standard,1-way,2,1500000,750000
-Brad Marchand,19,LW,BOS,2007-10-16,Entry-Level,2-way,3,2465000,618333
 Sandis Ozolinsh,34,D,SJS,2007-11-01,Standard,1-way,1,625000,625000
-Patrick Maroon,19,"LW, RW",ANA,2007-11-01,Entry-Level,2-way,3,1637500,545833
-Josh Godfrey,19,D,WSH,2007-11-05,Entry-Level,2-way,3,2012500,670833
-Stefan Legein,18,C,CBJ,2007-11-06,Entry-Level,2-way,3,2450000,712500
-Shawn Matthias,19,"C, LW",FLA,2007-12-14,Entry-Level,2-way,3,2550000,801667
-Jonathon Blum,18,D,NSH,2007-12-16,Entry-Level,2-way,3,3000000,875000
-Kyle Okposo,19,RW,NYI,2007-12-20,Entry-Level,2-way,3,5100000,850000
-Wayne Simmonds,19,"RW, LW",LAK,2007-12-28,Entry-Level,2-way,3,2550000,585000
-Zach Bogosian,18,RD,ATL,2008-09-04,Entry-Level,2-way,3,10125000,875000
 Kyle Quincey,23,RD,DET,2008-09-09,Standard,1-way,2,1050000,525000
 Brad Richardson,23,C,LAK,2008-09-15,Standard,1-way,2,1175000,587500
-Dale Weise,20,"RW, LW",NYR,2008-09-19,Entry-Level,2-way,3,2100000,578333
 Drew Miller,24,"LW, RW",ANA,2008-09-19,Standard,2-way,2,1050000,525000
-Evgeny Grachev,18,C,NYR,2008-09-22,Entry-Level,2-way,3,2625000,875000
-Mark Cundari,18,LD,STL,2008-09-24,Entry-Level,2-way,3,1700000,566666
 Teemu Selanne,38,RW,ANA,2008-09-28,35+,1-way,2,5250000,2625000
-Jason Demers,20,RD,SJS,2008-09-29,Entry-Level,2-way,3,1630000,543333
-Brian Lashoff,18,LD,DET,2008-10-01,Entry-Level,2-way,3,1590000,538333
-Luca Sbisa,18,LD,PHI,2008-10-01,Entry-Level,2-way,3,2625000,875000
-Martin Jones,18,G,LAK,2008-10-02,Entry-Level,2-way,3,1630000,526667
-Josh Bailey,18,"RW, LW",NYI,2008-10-02,Entry-Level,2-way,3,5175000,875000
-Justin Falk,20,LD,MIN,2008-10-03,Entry-Level,2-way,3,2225000,591667
-Zach Boychuk,18,"LW, RW",CAR,2008-10-04,Entry-Level,2-way,3,3675000,875000
-Cody Hodgson,18,"C, RW",VAN,2008-10-05,Entry-Level,2-way,3,5175000,875000
-Tom McCollum,18,G,DET,2008-10-05,Entry-Level,2-way,3,2625000,875000
 Patrick O'Sullivan,23,LW,LAK,2008-10-07,Standard,1-way,3,8775000,2925000
-Luke Schenn,18,RD,TOR,2008-10-07,Entry-Level,2-way,3,8925000,875000
 Alexei Semenov,27,LD,SJS,2008-10-08,Standard,1-way,1,650000,650000
-Tyson Strachan,23,RD,STL,2008-10-09,Entry-Level,2-way,2,1180000,575000
 Chris Chelios,46,D,DET,2008-10-09,35+,1-way,1,750000,750000
 Brooks Orpik,28,LD,PIT,2008-10-10,Standard,1-way,6,22500000,3750000
-Andrew Campbell,20,LD,LAK,2008-10-16,Entry-Level,2-way,3,1740000,555000
-Braden Holtby,18,G,WSH,2008-10-20,Entry-Level,2-way,3,2050000,618333
-Jake Allen,18,G,STL,2008-10-22,Entry-Level,2-way,3,2625000,875000
 Jassen Cullimore,35,LD,FLA,2008-10-28,35+,1-way,1,830000,830000
-Alexander Vasyunov,20,LW,NJD,2008-10-29,Entry-Level,2-way,3,1855000,618333
-John Carlson,18,RD,WSH,2008-11-04,Entry-Level,2-way,3,2625000,875000
 Mark Parrish,31,RW,DAL,2008-11-05,Standard,2-way,1,500000,500000
-David Desharnais,22,C,MTL,2008-11-05,Entry-Level,2-way,2,1025000,512500
-Eric Tangradi,19,LW,ANA,2008-12-09,Entry-Level,2-way,3,2537500,737500
-Dana Tyrell,19,C,TBL,2008-12-11,Entry-Level,2-way,3,2862500,712500
 Mats Sundin,37,C,VAN,2008-12-18,35+,1-way,1,5626500,5626500
 Maxime Talbot,24,"C, LW",PIT,2008-12-19,Standard,1-way,2,1350000,675000
-Dustin Tokarski,18,G,TBL,2008-12-30,Entry-Level,2-way,3,2160000,621667
-Kyle Clifford,18,LW,LAK,2009-09-22,Entry-Level,2-way,3,2700000,740000
-Brad Thiessen,23,G,PIT,2009-09-23,Entry-Level,2-way,2,1750000,650000
 Manny Malhotra,29,C,SJS,2009-09-23,Standard,1-way,1,700000,700000
 Rob Niedermayer,34,"C, RW",NJD,2009-09-25,Standard,1-way,1,1000000,1000000
 Darryl Sydor,37,LD,STL,2009-09-25,35+,1-way,1,1000000,1000000
-James Wright,19,C,TBL,2009-09-26,Entry-Level,2-way,3,3015000,646667
 Ryan Hollweg,26,LW,ARI,2009-09-28,Standard,2-way,1,500000,500000
 Andrew Peters,29,LW,NJD,2009-09-29,Standard,1-way,2,1000000,500000
 Dylan Reese,25,RD,CBJ,2009-09-29,Standard,2-way,1,525000,525000
 Robert Lang,38,C,ARI,2009-09-29,35+,1-way,1,1700000,1000000
 Martin Skoula,29,D,PIT,2009-09-29,Standard,1-way,1,575000,575000
-Dmitry Kulikov,18,LD,FLA,2009-09-29,Entry-Level,2-way,3,3975000,900000
 David Liffiton,24,D,CBJ,2009-09-29,Standard,2-way,1,525000,525000
 Francis Bouillon,33,LD,NSH,2009-09-30,Standard,1-way,1,750000,750000
 Andy Hilbert,28,C,MIN,2009-09-30,Standard,2-way,1,650000,650000
-Carter Ashton,18,RW,TBL,2009-10-02,Entry-Level,2-way,3,3300000,900000
 Torrey Mitchell,24,"C, RW",SJS,2009-10-02,Standard,1-way,3,4100000,1366667
 Dominic Moore,29,"C, LW",FLA,2009-10-04,Standard,1-way,1,1100000,1100000
 Marc-Andre Bergeron,28,D,MTL,2009-10-06,Standard,1-way,1,750000,750000
-Lance Bouma,19,"C, LW, RW",CGY,2009-10-07,Entry-Level,2-way,3,2150000,578333
-Simon Despres,18,RD,PIT,2009-10-07,Entry-Level,2-way,3,2700000,900000
 Dave Scatchard,33,C,NSH,2009-10-07,Standard,2-way,1,550000,550000
 Victor Oreskovich,23,RW,FLA,2009-10-09,Standard,2-way,2,1150000,575000
-Ryan Ellis,18,RD,NSH,2009-10-19,Entry-Level,2-way,3,4500000,900000
-Cody Eakin,18,C,WSH,2009-10-20,Entry-Level,2-way,3,2050000,618333
 Matt Pettinger,29,LW,VAN,2009-11-02,Standard,2-way,1,500000,500000
-Jamie Devane,18,LW,TOR,2009-11-03,Entry-Level,2-way,3,2250000,606666
 Dean McAmmond,36,LW,NJD,2009-11-06,35+,2-way,1,500000,500000
-Adam Henrique,19,C,NJD,2009-11-12,Entry-Level,2-way,3,2650000,595833
-Max Sauve,19,C,BOS,2009-12-01,Entry-Level,2-way,3,1987500,662500
-Michael Stone,19,RD,ARI,2009-12-09,Entry-Level,2-way,3,2625000,620833
 Anders Eriksson,34,D,ARI,2009-12-21,Standard,2-way,1,600000,600000
-Shawn Lalonde,19,RD,CHI,2009-12-31,Entry-Level,2-way,3,2400000,800000
 Matt Niskanen,23,RD,DAL,2010-09-16,Standard,1-way,2,3000000,1500000
 Patrick O'Sullivan,25,LW,CAR,2010-09-17,Standard,1-way,1,600000,600000
-Curt Gogol,18,LW,SJS,2010-09-20,Entry-Level,2-way,3,1715000,551667
-J.P. Anderson,18,G,SJS,2010-09-20,Entry-Level,2-way,3,1735000,555000
-Jeff Skinner,18,"LW, RW",CAR,2010-09-21,Entry-Level,2-way,3,4200000,900000
-Michael Sgarbossa,18,C,SJS,2010-09-21,Entry-Level,2-way,3,1760000,561666
-Nino Niederreiter,18,"LW, RW",NYI,2010-09-21,Entry-Level,2-way,3,8475000,900000
-Brandon Anderson,17,G,WSH,2010-09-21,Entry-Level,2-way,3,1695000,541667
-Jared Spurgeon,20,RD,MIN,2010-09-23,Entry-Level,2-way,3,1580000,526667
-Colton Jobke,18,D,MIN,2010-09-23,Entry-Level,2-way,3,1715000,551667
-Andrew Crescenzi,18,C,TOR,2010-09-24,Entry-Level,2-way,3,1900000,574999
 Matt Hendricks,29,"RW, C, LW",WSH,2010-09-27,Standard,2-way,1,575000,575000
-Luke Walker,20,RW,COL,2010-09-28,Entry-Level,2-way,3,1690000,563333
 Chris Stewart,22,"RW, LW",COL,2010-10-02,Standard,1-way,2,5750000,2875000
-Philipp Grubauer,18,G,WSH,2010-10-04,Entry-Level,2-way,3,1945000,611667
-Alexander Burmistrov,18,"C, RW",ATL,2010-10-05,Entry-Level,2-way,3,4500000,900000
-Jordan Nolan,21,LW,LAK,2010-10-05,Entry-Level,2-way,3,1595000,531667
-Brandon Gormley,18,LD,ARI,2010-10-07,Entry-Level,2-way,3,4125000,900000
 Peter Schaefer,32,LW,VAN,2010-10-07,Standard,2-way,1,600000,600000
 Brian McGrattan,29,RW,BOS,2010-10-11,Standard,2-way,1,515000,515000
 Andreas Lilja,34,LD,ANA,2010-10-11,Standard,1-way,1,600000,600000
-Igor Bobkov,19,G,ANA,2010-10-12,Entry-Level,2-way,3,2700000,706667
 Paul Mara,31,D,ANA,2010-10-16,Standard,1-way,1,750000,750000
-Landon Ferraro,19,"C, RW",DET,2010-11-02,Entry-Level,2-way,3,2700000,715000
-Zack Kassian,19,RW,BUF,2010-11-02,Entry-Level,2-way,3,2700000,900000
-Jack Campbell,18,G,DAL,2010-11-04,Entry-Level,2-way,3,4200000,800000
 Mark Parrish,33,RW,BUF,2010-11-06,Standard,2-way,1,600000,600000
-Louis-Marc Aubry,18,C,DET,2010-11-09,Entry-Level,2-way,3,2750000,615000
-Matt Fraser,20,"RW, LW",DAL,2010-11-17,Entry-Level,2-way,3,1730000,560000
-Brandon Manning,20,LD,PHI,2010-11-22,Entry-Level,2-way,3,2700000,715000
-Darren Archibald,20,"LW, RW",VAN,2010-12-13,Entry-Level,2-way,3,2700000,631667
-Chris Mueller,24,C,NSH,2010-12-27,Entry-Level,2-way,1,500000,500000
-Taylor Aronson,18,RD,NSH,2010-12-28,Entry-Level,2-way,3,2300000,600000
 Marek Svatos,28,RW,STL,2010-12-28,Standard,2-way,1,800000,800000
-Devante Smith-Pelly,18,"RW, LW",ANA,2010-12-29,Entry-Level,2-way,3,2700000,750000
-Dylan Olsen,19,LD,CHI,2010-12-31,Entry-Level,2-way,3,2700000,768333
 Chris Campoli,27,LD,MTL,2011-09-26,Standard,1-way,1,1750000,1750000
-Turner Elson,19,LW,CGY,2011-09-27,Entry-Level,2-way,3,1730000,560000
-Alex Roach,18,LD,LAK,2011-09-27,Entry-Level,2-way,3,1755000,566667
-Scott Valentine,20,LD,NSH,2011-09-30,Entry-Level,2-way,3,1720000,573333
 Trent Hunter,30,RW,LAK,2011-09-30,Standard,1-way,1,600000,600000
 Drew Doughty,21,RD,LAK,2011-09-30,Standard,1-way,8,56000000,7000000
 Brad Winchester,30,LW,SJS,2011-10-03,Standard,1-way,1,725000,725000
 Fabian Brunnstrom,26,LW,DET,2011-10-03,Standard,2-way,1,600000,600000
 Ray Emery,28,G,CHI,2011-10-03,Standard,1-way,1,600000,600000
 Jay Pandolfo,36,LW,NYI,2011-10-04,35+,1-way,1,1400000,600000
-Mark Scheifele,18,C,WPG,2011-10-05,Entry-Level,2-way,3,4875000,925000
-Brandon Saad,18,"RW, LW",CHI,2011-10-05,Entry-Level,2-way,3,2775000,795000
-Ryan Strome,18,"C, RW",NYI,2011-10-06,Entry-Level,2-way,3,5325000,925000
-Ryan Martindale,20,C,EDM,2011-10-08,Entry-Level,2-way,3,2700000,690000
-Ondrej Palat,20,"RW, LW",TBL,2011-10-10,Entry-Level,2-way,3,1725000,575000
-Jamie Oleksiak,18,LD,DAL,2011-10-10,Entry-Level,2-way,3,4200000,925000
-Stuart Percy,18,LD,TOR,2011-10-10,Entry-Level,2-way,3,3412500,863333
-Jonathan Huberdeau,18,"LW, C",FLA,2011-10-11,Entry-Level,2-way,3,9675000,925000
-Andy Andreoff,20,"LW, C",LAK,2011-10-12,Entry-Level,2-way,3,1825000,593333
 Troy Bodie,26,RW,ANA,2011-10-12,Standard,2-way,1,550000,550000
-Kevan Miller,23,RD,BOS,2011-10-21,Entry-Level,2-way,2,1160000,580000
-Petr Mrázek,19,G,DET,2011-10-27,Entry-Level,2-way,3,2450000,605000
-Victor Rask,18,C,CAR,2011-10-28,Entry-Level,2-way,3,2775000,742500
-Jarred Tinordi,19,LD,MTL,2011-11-02,Entry-Level,2-way,3,3337500,900000
 Anton Strålman,25,RD,NYR,2011-11-04,Standard,1-way,1,900000,900000
-Brendan Gallagher,19,RW,MTL,2011-11-16,Entry-Level,2-way,3,2700000,715000
 Kyle Turris,21,C,ARI,2011-11-22,Standard,1-way,2,2800000,1400000
 Joe Finley,24,D,BUF,2011-11-28,Standard,2-way,3,1600000,533333
 Jeremy Colliton,26,C,NYI,2011-11-30,Standard,2-way,1,500000,500000
-Michaël Bournival,19,LW,MTL,2011-12-02,Entry-Level,2-way,3,2700000,690000
-Micheal Ferland,19,"LW, RW",CGY,2011-12-05,Entry-Level,2-way,3,2475000,639167
-Dougie Hamilton,18,RD,BOS,2011-12-08,Entry-Level,2-way,3,4575000,925000
 Antti Miettinen,31,RW,TBL,2011-12-12,Standard,2-way,2,2702585,1300000
-Kevin Sundher,19,C,BUF,2011-12-15,Entry-Level,2-way,3,2725000,610000
-Zack Phillips,18,C,MIN,2011-12-18,Entry-Level,2-way,3,3000000,863333
-Stefan Noesen,18,"RW, LW",OTT,2011-12-22,Entry-Level,2-way,3,3412500,863333
-Matt Puempel,18,LW,OTT,2011-12-23,Entry-Level,2-way,3,3412500,925000
-Jerome Leduc,19,RD,BUF,2011-12-29,Entry-Level,2-way,3,2700000,665000
 Pierre-Cédric Labrie,25,LW,TBL,2011-12-30,Standard,2-way,2,1050000,525000
-Cody Ceci,18,RD,OTT,2012-08-23,Entry-Level,2-way,3,4200000,925000
 Eddie Läck,24,G,VAN,2012-08-27,Standard,2-way,2,1500000,750000
 Robert Bortuzzo,23,RD,PIT,2012-08-30,Standard,2-way,1,525000,525000
 Alex Grant,23,RD,PIT,2012-08-30,Standard,2-way,1,525000,525000
 Eric Tangradi,23,LW,PIT,2012-08-31,Standard,2-way,1,726000,726000
-Nikolai Prokhorkin,18,"C, LW",LAK,2012-09-05,Entry-Level,2-way,3,2625000,662500
-Jordan Martinook,20,"C, LW, RW",ARI,2012-09-06,Entry-Level,2-way,3,2552500,658250
-Lucas Lessio,19,LW,ARI,2012-09-06,Entry-Level,2-way,3,2775000,830833
-Malcolm Subban,18,G,BOS,2012-09-07,Entry-Level,2-way,3,4575000,925000
-Damon Severson,18,RD,NJD,2012-09-10,Entry-Level,2-way,3,2850000,650833
 Steve Eminger,28,D,NYR,2012-09-10,Standard,1-way,1,750000,750000
-Reece Scarlett,19,RD,NJD,2012-09-10,Entry-Level,2-way,3,2150000,628333
 Jeremy Welsh,24,C,CAR,2012-09-11,Standard,2-way,2,1700000,850000
 Michal Rozsíval,34,RD,CHI,2012-09-11,Standard,1-way,1,2000000,2000000
-Nikita Kucherov,19,RW,TBL,2012-09-11,Entry-Level,2-way,3,2775000,742500
 Ben Scrivens,26,G,TOR,2012-09-12,Standard,2-way,2,1225000,612500
 Jonathon Blum,23,D,NSH,2012-09-13,Standard,2-way,1,650000,650000
-Olli Määttä,18,LD,PIT,2012-09-14,Entry-Level,2-way,3,2775000,925000
-Evan McEneny,18,LD,VAN,2012-09-14,Entry-Level,2-way,3,1855000,585000
-Derrick Pouliot,18,LD,PIT,2012-09-14,Entry-Level,2-way,3,4050000,925000
-Michael St. Croix,19,C,NYR,2012-09-14,Entry-Level,2-way,3,2700000,635000
-Kurtis MacDermid,18,LD/RD,LAK,2012-09-15,Entry-Level,2-way,3,1795000,578333
-Darian Dziurzynski,22,C,ARI,2012-09-15,Entry-Level,2-way,2,1360000,640000
-Shane Doan,35,"RW, LW",ARI,2012-09-15,35+,1-way,4,21200000,5300000
 John Carlson,22,RD,WSH,2012-09-15,Standard,1-way,6,23800000,3966667
 Matt Martin,23,"LW, RW",NYI,2012-09-15,Standard,1-way,4,4000000,1000000
-Colton Sissons,18,"RW, C",NSH,2012-09-15,Entry-Level,2-way,3,2725000,656667
 Justin Abdelkader,25,"LW, RW",DET,2012-09-15,Standard,1-way,4,7200000,1800000
 Evander Kane,21,"LW, RW",WPG,2012-09-15,Standard,1-way,6,31500000,5250000
 Tyler Ennis,22,"C, LW, RW",BUF,2012-09-15,Standard,1-way,2,5625000,2812500
-Andrey Makarov,19,G,BUF,2012-09-16,Entry-Level,2-way,3,1775000,591667
+Shane Doan,35,"RW, LW",ARI,2012-09-15,35+,1-way,4,21200000,5300000
 Carlo Colaiacovo,29,LD,DET,2012-09-16,Standard,1-way,2,5000000,2500000
 Troy Bodie,27,RW,ANA,2012-09-21,Standard,2-way,1,550000,550000
 Rich Peverley,30,C,BOS,2012-10-11,Standard,1-way,3,9750000,3250000
-Scott Sabourin,20,RW,LAK,2013-10-09,Entry-Level,2-way,3,2775000,753333
-Joshua Morrissey,18,LD,WPG,2013-10-09,Entry-Level,2-way,3,4275000,925000
 Jeff Halpern,37,C,ARI,2013-10-12,35+,2-way,1,600000,600000
-Matia Marcantuoni,19,C,PIT,2013-10-19,Entry-Level,2-way,3,2275000,616666
-Anthony Mantha,18,"RW, LW",DET,2013-10-19,Entry-Level,2-way,3,2775000,925000
-Viktor Svedberg,22,LD,CHI,2013-10-19,Entry-Level,2-way,2,1400000,620000
 Radek Martinek,36,RD,NYI,2013-10-23,35+,1-way,1,600000,600000
 Brad Mills,30,C,CHI,2013-10-25,Standard,2-way,1,550000,550000
 Tom Gilbert,30,RD,FLA,2013-10-28,Standard,1-way,1,900000,900000
 Manny Malhotra,33,C,CAR,2013-10-31,Standard,2-way,1,600000,600000
-Zach Nastasiuk,18,RW,DET,2013-11-01,Entry-Level,2-way,3,2800000,647500
 Jerred Smithson,34,C,TOR,2013-11-06,Standard,2-way,1,550000,550000
 Pierre-Luc Letourneau-Leblond,28,RW,PIT,2013-11-07,Standard,2-way,2,1100000,550000
 Ilya Bryzgalov,33,G,EDM,2013-11-08,Standard,1-way,1,2000000,2000000
 John Madden,38,C,FLA,2013-11-08,35+,2-way,1,600000,600000
-Josh Anderson,19,RW,CBJ,2013-11-12,Entry-Level,2-way,3,2775000,709167
 Carlo Colaiacovo,30,LD,STL,2013-11-12,Standard,1-way,1,750000,750000
-Tyler Gaudet,20,C,ARI,2013-11-12,Entry-Level,2-way,3,2775000,925000
-Andreas Athanasiou,19,"C, LW, RW",DET,2013-11-15,Entry-Level,2-way,3,2775000,650833
-Matthew Finn,19,LD,TOR,2013-11-19,Entry-Level,2-way,3,2775000,827500
-Ryan Hartman,18,"C, RW",CHI,2013-11-19,Entry-Level,2-way,3,2775000,925000
-Connor Brown,19,"LW, RW",TOR,2013-11-22,Entry-Level,2-way,3,2775000,717500
-Frédérik Gauthier,18,C,TOR,2013-11-27,Entry-Level,2-way,3,2775000,925000
 Gilbert Brule,26,C,ARI,2013-11-30,Standard,2-way,1,685000,685000
-Cole Cassels,18,C,VAN,2013-12-04,Entry-Level,2-way,3,2900000,630833
-Carter Sandlak,20,LW,CAR,2013-12-07,Entry-Level,2-way,3,1785000,595000
 Chris VandeVelde,26,"C, LW",PHI,2013-12-12,Standard,2-way,1,550000,550000
-Morgan Klimchuk,18,LW,CGY,2013-12-18,Entry-Level,2-way,3,2775000,925000
-Trevor Carrick,19,LD,CAR,2013-12-18,Entry-Level,2-way,3,2275000,700000
 Jean Philippe Cote,31,D,TBL,2013-12-18,Standard,2-way,2,1100000,550000
-Nicolas Petan,18,"LW, RW, C",WPG,2013-12-20,Entry-Level,2-way,3,2775000,820000
-Scott Kosmachuk,19,RW,WPG,2013-12-22,Entry-Level,2-way,3,2775000,720000
-Keegan Kanzig,18,LD,CGY,2013-12-22,Entry-Level,2-way,3,2775000,630833
-Daniel Altshuller,18,G,CAR,2013-12-23,Entry-Level,2-way,3,2405000,728333
-Oliver Bjorkstrand,18,"RW, LW",CBJ,2013-12-26,Entry-Level,2-way,3,2800000,709167
-Eric Comrie,18,G,WPG,2013-12-26,Entry-Level,2-way,3,2892500,698333
-Kerby Rychel,18,LW,CBJ,2013-12-31,Entry-Level,2-way,3,3825000,925000
-Emile Poirier,18,LW,CGY,2013-12-31,Entry-Level,2-way,3,2775000,863333
-Laurent Dauphin,19,"C, LW",ARI,2014-10-05,Entry-Level,2-way,3,2775000,775833
 Torey Krug,23,LD,BOS,2014-10-05,Standard,1-way,1,1400000,1400000
-Joe Hicketts,18,LD,DET,2014-10-05,Entry-Level,2-way,3,1975000,636111
-Dmitrii Sergeev,18,LD,STL,2014-10-05,Entry-Level,2-way,3,2045000,644167
-Justin Auger,20,RW,LAK,2014-10-05,Entry-Level,2-way,3,1850000,616666
-Remi Elie,19,LW,DAL,2014-10-05,Entry-Level,2-way,3,2775000,728333
 Brenden Dillon,23,LD,DAL,2014-10-05,Standard,1-way,1,1250000,1250000
 Shane O'Brien,31,LD,FLA,2014-10-05,Standard,1-way,1,650000,650000
-Hunter Warner,18,RD,MIN,2014-10-05,Entry-Level,2-way,3,1870000,610000
-Travis Sanheim,18,LD,PHI,2014-10-05,Entry-Level,2-way,3,2775000,925000
-Nikolay Goldobin,18,LW,SJS,2014-10-05,Entry-Level,2-way,3,3412500,925000
-Michael Dal Colle,18,LW,NYI,2014-10-05,Entry-Level,2-way,3,9375000,925000
-Liam O'Brien,20,"C, RW",WSH,2014-10-05,Entry-Level,2-way,3,1925000,621667
 Raphael Diaz,28,RD,CGY,2014-10-05,Standard,1-way,1,700000,700000
-Joshua Ho-Sang,18,"RW, C",NYI,2014-10-05,Entry-Level,2-way,3,3412500,925000
 Ryan Ellis,23,RD,NSH,2014-10-05,Standard,1-way,5,12500000,2500000
-Nicolas Aubé-Kubel,18,RW,PHI,2014-10-05,Entry-Level,2-way,3,2775000,734167
 Jaden Schwartz,22,LW,STL,2014-10-05,Standard,1-way,2,4700000,2350000
-Zachary Leslie,20,LD,LAK,2014-10-05,Entry-Level,2-way,3,1850000,616667
-Julius Bergman,18,RD,SJS,2014-10-05,Entry-Level,2-way,3,2775000,714167
 Ryan Johansen,22,"C, RW",CBJ,2014-10-06,Standard,1-way,3,12000000,4000000
 Ryan Carter,31,"C, LW",MIN,2014-10-07,Standard,2-way,1,725000,725000
 Simon Gagne,34,RW,BOS,2014-10-13,Standard,1-way,1,600000,600000
 Eric Gelinas,23,LD,NJD,2014-10-15,Standard,1-way,1,900000,900000
-Spencer Martin,19,G,COL,2014-10-17,Entry-Level,2-way,3,2775000,728333
-Tyler Bertuzzi,19,"LW, RW",DET,2014-10-17,Entry-Level,2-way,3,2732500,675833
 Carlo Colaiacovo,31,LD,PHI,2014-10-30,Standard,2-way,1,625000,625000
-Justin Bailey,19,RW,BUF,2014-11-02,Entry-Level,2-way,3,2682500,661666
-Ben Harpur,19,LD,OTT,2014-11-06,Entry-Level,2-way,3,2320000,628333
 Jamie McBain,26,RD,LAK,2014-11-13,Standard,2-way,1,550000,550000
-Jean Dupuy,19,LW,BUF,2014-11-28,Entry-Level,2-way,3,2350000,653333
 Scott Gomez,34,C,NJD,2014-12-01,Standard,2-way,1,550000,550000
 Martin Brodeur,42,G,STL,2014-12-02,35+,1-way,1,700000,700000
 Ilya Bryzgalov,34,G,ANA,2014-12-09,Standard,1-way,1,2880000,2880000
 Mark Fraser,28,D,NJD,2014-12-18,Standard,2-way,1,550000,550000
-Cole Ully,19,LW,DAL,2014-12-19,Entry-Level,2-way,3,2245000,646667
-Brett Lernout,18,RD,MTL,2014-12-19,Entry-Level,2-way,3,2645000,653333
-Nicholas Paul,19,"C, LW",OTT,2014-12-21,Entry-Level,2-way,3,2682500,670000
-Rourke Chartier,18,C,SJS,2014-12-31,Entry-Level,2-way,3,2775000,672500
-Vince Dunn,18,LD/RD,STL,2015-09-24,Entry-Level,2-way,3,2775000,759167
-Michael McNiven,17,G,MTL,2015-09-24,Entry-Level,2-way,3,2250000,682222
-Brandon Carlo,18,RD,BOS,2015-09-25,Entry-Level,2-way,3,2775000,820000
 Brad Boyes,33,"RW, C",TOR,2015-09-27,Standard,1-way,1,700000,700000
 Mark Fraser,28,D,OTT,2015-09-28,Standard,2-way,1,800000,800000
 Andrew Campbell,27,LD,TOR,2015-09-29,Standard,2-way,2,1150000,575000
-Thomas Chabot,18,LD,OTT,2015-09-30,Entry-Level,2-way,3,3855000,863333
-Oleg Yevenko,24,LD,CBJ,2015-10-01,Entry-Level,2-way,1,650000,650000
 Corey Potter,31,RD,ARI,2015-10-02,Standard,2-way,1,650000,650000
-Evgeny Svechnikov,18,LW,DET,2015-10-02,Entry-Level,2-way,3,3412500,863333
 Lee Stempniak,32,RW,NJD,2015-10-03,Standard,1-way,1,850000,850000
 Jonas Gustavsson,30,G,BOS,2015-10-04,Standard,1-way,1,700000,700000
 Tomas Fleischmann,31,LW,MTL,2015-10-04,Standard,1-way,1,750000,750000
-Ken Appleby,20,G,NJD,2015-10-04,Entry-Level,2-way,3,1905000,635000
 Scottie Upshall,31,LW,STL,2015-10-05,Standard,2-way,1,700000,700000
-Tim McGauley,19,C,WSH,2015-10-05,Entry-Level,2-way,3,1990000,663333
-Braden Christoffer,21,LW,EDM,2015-10-06,Entry-Level,2-way,3,1950000,650000
 Thomas Raffl,29,"LW, RW",WPG,2015-10-06,Standard,1-way,1,575000,575000
-Cavan Fitzgerald,18,LD,SJS,2015-10-06,Entry-Level,2-way,3,2012500,656667
 Jack Skille,28,RW,COL,2015-10-06,Standard,2-way,1,675000,675000
 Peter Budaj,32,G,LAK,2015-10-08,Standard,2-way,1,575000,575000
 Eric Boulton,38,LW,NYI,2015-10-13,35+,1-way,1,675000,575000
-Dominik Masin,19,LD,TBL,2015-10-13,Entry-Level,2-way,3,2775000,808333
 Kyle Cumiskey,28,LD,CHI,2015-10-15,Standard,1-way,1,575000,575000
-Anthony Beauvillier,18,LW,NYI,2015-10-23,Entry-Level,2-way,3,2775000,925000
 Rich Clune,28,LW,TOR,2015-10-29,Standard,2-way,1,575000,575000
 Martin Havlat,34,LW,STL,2015-11-06,Standard,2-way,1,600000,600000
-Alexandre Carrier,18,RD,NSH,2015-11-12,Entry-Level,2-way,3,2070000,690000
-Jake DeBrusk,18,LW,BOS,2015-11-12,Entry-Level,2-way,3,4050000,925000
-Jérémy Lauzon,18,LD/RD,BOS,2015-11-12,Entry-Level,2-way,3,2775000,800833
-Zach Senyshyn,18,RW,BOS,2015-11-12,Entry-Level,2-way,3,4050000,925000
-Anthony Richard,18,C,NSH,2015-11-13,Entry-Level,2-way,3,2080000,690000
-Samuel Blais,19,RW,STL,2015-11-13,Entry-Level,2-way,3,2175000,672500
-Dmytro Timashov,18,LW,TOR,2015-11-23,Entry-Level,2-way,3,2675000,694444
-Andrew Nielsen,18,LD,TOR,2015-11-23,Entry-Level,2-way,3,2950000,697500
 Dainius Zubrus,37,LW,SJS,2015-11-24,35+,1-way,1,600000,600000
 Tyler Kennedy,29,C,NJD,2015-11-27,Standard,2-way,1,600000,600000
-Brett Pollock,19,C,DAL,2015-12-09,Entry-Level,2-way,3,2775000,711667
-Guillaume Brisebois,17,LD,VAN,2015-12-10,Entry-Level,2-way,3,2850000,697500
-Keegan Kolesar,18,"RW, C",CBJ,2015-12-20,Entry-Level,2-way,3,2775000,722500
-Conor Garland,19,"LW, RW",ARI,2015-12-23,Entry-Level,2-way,3,2550000,680556
-Dysin Mayo,19,RD,ARI,2015-12-26,Entry-Level,2-way,3,2400000,680000
-Mackenzie Blackwood,18,G,NJD,2015-12-30,Entry-Level,2-way,3,2775000,709167
-Ryan Gropp,18,LW,NYR,2015-12-31,Entry-Level,2-way,3,2850000,802500
-Carter Hart,17,G,PHI,2016-10-02,Entry-Level,2-way,3,2775000,730833
-Maxime Lajoie,18,LD,OTT,2016-10-03,Entry-Level,2-way,3,2500000,710000
-Colby Sissons,18,LD,NJD,2016-10-03,Entry-Level,2-way,3,2165000,696111
 Tobias Rieder,23,"RW, LW",ARI,2016-10-03,Standard,1-way,2,4450000,2225000
-Jalen Smereck,19,D,ARI,2016-10-06,Entry-Level,2-way,3,2090000,686667
-Thomas Schemitsch,19,RD,FLA,2016-10-07,Entry-Level,2-way,3,2775000,717500
 Kris Russell,29,LD/RD,EDM,2016-10-07,Standard,1-way,1,3100000,3100000
-Michael Mcleod,18,C,NJD,2016-10-07,Entry-Level,2-way,3,4275000,863333
 Jakub Nakladal,28,RD,CAR,2016-10-09,Standard,1-way,1,600000,600000
 Gabriel Bourque,26,"LW, RW",COL,2016-10-10,Standard,2-way,1,800000,800000
 Rene Bourque,34,LW,COL,2016-10-10,Standard,1-way,1,650000,650000
@@ -392,120 +172,52 @@ Kris Versteeg,30,"LW, RW",CGY,2016-10-11,Standard,1-way,1,950000,950000
 Eric Gryba,28,RD,EDM,2016-10-11,Standard,2-way,1,950000,950000
 Nicklas Grossmann,31,LD,CGY,2016-10-11,Standard,1-way,1,575000,575000
 Nikita Kucherov,23,RW,TBL,2016-10-11,Standard,1-way,3,14300000,4766667
-Mitch Vande Sompel,19,LD,NYI,2016-10-12,Entry-Level,2-way,3,2900000,728333
 Jack Skille,29,RW,VAN,2016-10-13,Standard,1-way,1,700000,700000
-Lane Pederson,19,C,ARI,2016-10-13,Entry-Level,2-way,3,1980000,660000
 Rickard Rakell,23,"RW, LW",ANA,2016-10-14,Standard,1-way,6,22800000,3800000
 Tom McCollum,26,G,CGY,2016-10-15,Standard,2-way,2,1225000,612500
 Justin Fontaine,28,RW,NYR,2016-10-15,Standard,2-way,1,600000,600000
-Givani Smith,18,LW,DET,2016-10-17,Entry-Level,2-way,3,2925000,714166
-Nathan Bastian,18,"RW, C",NJD,2016-10-19,Entry-Level,2-way,3,2900000,714166
 Steve Bernier,31,RW,NYI,2016-10-24,Standard,2-way,1,600000,600000
 Hampus Lindholm,22,LD,ANA,2016-10-27,Standard,1-way,6,31500000,5250000
-Kyle Capobianco,19,LD,ARI,2016-10-31,Entry-Level,2-way,3,2775000,775833
-Alex DeBrincat,18,"LW, RW",CHI,2016-11-07,Entry-Level,2-way,3,2775000,809167
 Jacob Trouba,22,RD,WPG,2016-11-07,Standard,1-way,2,6000000,2812500
-Brandon Gignac,18,C,NJD,2016-11-11,Entry-Level,2-way,3,2950000,714166
 Adam Pardy,32,LD,NSH,2016-11-30,Standard,2-way,1,575000,575000
-Logan Stanley,18,LD,WPG,2016-12-06,Entry-Level,2-way,3,3412500,863333
-Jesse Gabrielle,19,LW,BOS,2016-12-11,Entry-Level,2-way,3,2775000,736666
-Sam Steel,18,C,ANA,2016-12-20,Entry-Level,2-way,3,2775000,863333
 Stephen Gionta,33,"C, RW",NYI,2016-12-21,Standard,2-way,1,575000,575000
-Filip Chlapik,19,C,OTT,2016-12-22,Entry-Level,2-way,3,2775000,759167
-Vitaly Abramov,18,LW,CBJ,2016-12-23,Entry-Level,2-way,3,2825000,730833
-Mathieu Joseph,19,"C, LW, RW",TBL,2016-12-24,Entry-Level,2-way,3,2775000,742500
-Brett Howden,18,C,TBL,2016-12-27,Entry-Level,2-way,3,2775000,863333
-Tyler Benson,18,LW,EDM,2016-12-30,Entry-Level,2-way,3,2775000,808333
-Calvin Thürkauf,19,"C, LW",CBJ,2016-12-30,Entry-Level,2-way,3,2215000,714444
-Nicolas Hague,18,LD,VGK,2017-09-29,Entry-Level,2-way,3,2775000,791667
 Scottie Upshall,33,LW,STL,2017-10-01,Standard,1-way,1,800000,800000
 Jimmy Hayes,27,RW,NJD,2017-10-01,Standard,1-way,1,700000,700000
 David Booth,32,LW,DET,2017-10-02,Standard,2-way,1,700000,700000
-Brandon Crawley,20,LD,NYR,2017-10-02,Entry-Level,2-way,3,2600000,770000
-Ty Lewis,19,LW,COL,2017-10-02,Entry-Level,2-way,3,2200000,716666
-Tanner Kaspick,19,C,STL,2017-10-02,Entry-Level,2-way,3,2550000,738889
-Alex Formenton,17,LW,OTT,2017-10-02,Entry-Level,2-way,3,2850000,747500
 Josh Anderson,23,RW,CBJ,2017-10-02,Standard,1-way,3,5550000,1850000
 Jaromír Jágr,45,RW,CGY,2017-10-03,35+,1-way,1,2000000,1000000
-Kyle Keyser,18,G,BOS,2017-10-03,Entry-Level,2-way,3,2300000,733333
-Kaden Fulcher,18,G,DET,2017-10-03,Entry-Level,2-way,3,2300000,733333
 Harry Zolnierczyk,29,LW,NSH,2017-10-03,Standard,2-way,1,650000,650000
-Drake Batherson,19,"C, RW",OTT,2017-10-03,Entry-Level,2-way,3,2400000,736666
 Tanner Glass,33,LW,CGY,2017-10-03,Standard,1-way,1,650000,650000
 Alex Chiasson,26,RW,WSH,2017-10-04,Standard,1-way,1,660000,660000
 Cody Franson,29,RD,CHI,2017-10-04,Standard,1-way,1,1000000,1000000
 Daniel Winnik,32,C,MIN,2017-10-04,Standard,1-way,1,660000,660000
 Brandon Pirri,26,"RW, LW",VGK,2017-10-04,Standard,2-way,1,650000,650000
-Jonah Gadjovich,18,LW,VAN,2017-10-16,Entry-Level,2-way,3,2775000,783333
 Brooks Laich,34,"C, LW",LAK,2017-10-19,Standard,2-way,1,650000,650000
-Cliff Pu,19,RW,BUF,2017-10-23,Entry-Level,2-way,3,2825000,745000
 Roman Polák,31,RD,TOR,2017-10-23,Standard,1-way,1,1100000,1100000
 Andreas Athanasiou,22,"C, LW, RW",DET,2017-10-23,Standard,1-way,1,1387500,1387500
-Jack Rodewald,23,RW,OTT,2017-10-24,Entry-Level,2-way,2,1415000,706250
-Maxime Fortier,19,"RW, C",CBJ,2017-11-03,Entry-Level,2-way,3,2775000,759167
-Glenn Gawdin,20,"C, RW",CGY,2017-11-16,Entry-Level,2-way,3,2775000,775833
-Jonathan Ang,19,C,FLA,2017-11-16,Entry-Level,2-way,3,2825000,745000
-Anthony Greco,23,RW,FLA,2017-11-20,Entry-Level,2-way,2,1335000,667500
-Austin Strand,20,RD,LAK,2017-11-27,Entry-Level,2-way,3,2775000,759167
-Pierre-Olivier Joseph,17,LD,ARI,2017-12-04,Entry-Level,2-way,3,3412500,863333
 Marek Mazanec,25,G,NYR,2017-12-05,Standard,2-way,1,650000,650000
-Cole Kehler,19,G,LAK,2017-12-08,Entry-Level,2-way,3,2350000,745000
-Ivan Lodnia,17,RW,MIN,2017-12-11,Entry-Level,2-way,3,2800000,747500
-Aaron Luchuk,20,C,OTT,2017-12-26,Entry-Level,2-way,3,2775000,759167
-Joachim Blichfeld,18,"RW, LW",SJS,2017-12-28,Entry-Level,2-way,3,2450000,736666
-Jayden Halbgewachs,20,"LW, C",SJS,2017-12-28,Entry-Level,2-way,3,2775000,759167
-Cameron Hebig,20,C,EDM,2017-12-28,Entry-Level,2-way,3,2775000,759167
-Matthew Phillips,19,C,CGY,2017-12-31,Entry-Level,2-way,3,2325000,733333
-Semyon Der-Arguchintsev,17,C,TOR,2018-09-21,Entry-Level,2-way,3,2460000,766667
-Jacob McGrew,19,C,SJS,2018-09-22,Entry-Level,2-way,3,2650000,773333
 Miles Wood,22,LW,NJD,2018-09-22,Standard,1-way,4,11000000,2750000
-Jérémy Groleau,18,LD,NJD,2018-09-24,Entry-Level,2-way,3,2320000,746667
 Luca Sbisa,28,LD,NYI,2018-09-24,Standard,1-way,1,1500000,1500000
-Alexander Alexeyev,18,LD,WSH,2018-09-24,Entry-Level,2-way,3,2775000,863333
 Shea Theodore,22,LD/RD,VGK,2018-09-25,Standard,1-way,7,36400000,5200000
 Ryan Haggerty,25,RW,PIT,2018-09-25,Standard,2-way,2,1350000,675000
-Brandon Davidson,26,LD,CHI,2018-09-27,Standard,1-way,1,650000,650000
 Mark Letestu,33,"C, RW",CBJ,2018-09-27,Standard,2-way,1,750000,750000
+Brandon Davidson,26,LD,CHI,2018-09-27,Standard,1-way,1,650000,650000
 Michal Cajkovsky,26,D,CAR,2018-09-27,Standard,2-way,1,650000,650000
-Michael Prapavessis,22,LD,CBJ,2018-09-27,Entry-Level,2-way,2,1450000,725000
-Jakub Lauko,18,"C, LW",BOS,2018-09-28,Entry-Level,2-way,3,2800000,764167
-Jared McIsaac,18,LD,DET,2018-09-28,Entry-Level,2-way,3,2875000,764167
-Riley Sutter,18,RW,WSH,2018-09-29,Entry-Level,2-way,3,2800000,764167
 Alex Chiasson,27,RW,EDM,2018-10-02,Standard,1-way,1,650000,650000
 Jason Garrison,33,LD,EDM,2018-10-02,Standard,1-way,1,650000,650000
-Cale Fleury,19,RD,MTL,2018-10-04,Entry-Level,2-way,3,2650000,771666
 Drew Stafford,32,"RW, LW",NJD,2018-10-05,Standard,1-way,1,810000,810000
 Stephen Gionta,34,"C, RW",NYI,2018-10-13,Standard,2-way,1,650000,650000
-Mackenzie Entwistle,18,C,CHI,2018-10-16,Entry-Level,2-way,3,2775000,811667
-Matej Pekar,18,"C, RW",BUF,2018-10-17,Entry-Level,2-way,3,2925000,764167
 Jake Dotchin,24,RD,ANA,2018-10-17,Standard,1-way,1,800000,800000
 Nick Ritchie,22,LW,ANA,2018-10-18,Standard,1-way,3,4600000,1640000
-Kody Clark,18,RW,WSH,2018-10-22,Entry-Level,2-way,3,2775000,808333
-Brandon Hagel,19,LW,CHI,2018-10-30,Entry-Level,2-way,3,2775000,880833
 Colton Beck,28,LW,MIN,2018-11-01,Standard,2-way,2,1350000,675000
 Matt Donovan,28,LD,NSH,2018-11-04,Standard,2-way,2,1350000,675000
-Nicolas Beaudin,18,LD,CHI,2018-11-09,Entry-Level,2-way,3,3500000,863333
 Logan Shaw,25,"C, RW",WPG,2018-11-11,Standard,2-way,1,675000,675000
 Justin Falk,29,LD,OTT,2018-11-30,Standard,2-way,1,650000,650000
 William Nylander,22,"RW, LW",TOR,2018-12-01,Standard,1-way,6,45000000,6962366
-Bode Wilde,18,RD,NYI,2018-12-03,Entry-Level,2-way,3,2875000,764167
-Nathan Schnarr,19,C,ARI,2018-12-10,Entry-Level,2-way,3,2775000,786667
-Alexei Toropchenko,19,C,STL,2018-12-13,Entry-Level,2-way,3,2725000,775000
-Mitch Eliot,20,RD,VAN,2018-12-14,Entry-Level,2-way,3,2550000,822500
-Ian Scott,19,G,TOR,2018-12-14,Entry-Level,2-way,3,2825000,805833
-Gabriel Fortier,18,LW,TBL,2018-12-19,Entry-Level,2-way,3,2825000,791667
-Paul Cotter,18,C,VGK,2018-12-28,Entry-Level,2-way,3,2550000,760000
 Ben Hutton,26,LD,LAK,2019-09-18,Standard,1-way,1,1500000,1500000
-Nicholas Robertson,17,LW,TOR,2019-09-19,Entry-Level,2-way,3,2550000,821667
 Anthony Deangelo,23,RD,NYR,2019-09-20,Standard,1-way,1,925000,925000
-Brayden Pachal,19,RD,VGK,2019-09-20,Entry-Level,2-way,3,2295000,765000
-Nathan Légaré,18,RW,PIT,2019-09-20,Entry-Level,2-way,3,2825000,795000
-Samuel Poulin,18,"LW, RW",PIT,2019-09-22,Entry-Level,2-way,3,2775000,894167
 Brayden Point,23,"C, RW",TBL,2019-09-23,Standard,1-way,3,20250000,6750000
-Thomas Harley,17,LD,DAL,2019-09-23,Entry-Level,2-way,3,4050000,894167
-Jakob Pelletier,18,C,CGY,2019-09-23,Entry-Level,2-way,3,2775000,894167
 Matthew Tkachuk,21,"LW, RW",CGY,2019-09-25,Standard,1-way,3,21000000,7000000
-Dawson Barteaux,19,RD,DAL,2019-09-26,Entry-Level,2-way,3,2425000,783333
 Alex Petrovic,27,RD,BOS,2019-09-26,Standard,2-way,1,700000,700000
 Patrik Laine,21,"LW, RW",WPG,2019-09-27,Standard,1-way,2,13500000,6750000
 Scott Sabourin,26,RW,OTT,2019-09-27,Standard,2-way,1,700000,700000
@@ -515,41 +227,23 @@ Zac Rinaldo,29,LW,CGY,2019-09-29,Standard,2-way,1,700000,700000
 Tobias Rieder,26,"RW, LW",CGY,2019-09-29,Standard,2-way,1,700000,700000
 Micheal Haley,33,C,NYR,2019-10-01,Standard,2-way,1,700000,700000
 Joe Morrow,26,RD,NJD,2019-10-06,Standard,2-way,1,700000,700000
-Matthew Robertson,18,LD,NYR,2019-10-08,Entry-Level,2-way,3,2825000,811667
-Benoit-Olivier Groulx,19,C,ANA,2019-10-09,Entry-Level,2-way,3,2825000,822500
 Patrick Marleau,39,"LW, C",SJS,2019-10-09,35+,2-way,1,700000,700000
 Chris Stewart,31,"RW, LW",PHI,2019-10-15,Standard,1-way,1,750000,753757
-Mathias Laferrière,19,C,STL,2019-10-17,Entry-Level,2-way,3,2480000,786667
-Egor Afanasyev,18,C,NSH,2019-10-19,Entry-Level,2-way,3,2825000,803333
 Brian Boyle,34,"LW, C",FLA,2019-10-20,Standard,1-way,1,940000,940000
-Philip Tomasino,17,"RW, C",NSH,2019-10-21,Entry-Level,2-way,3,3200000,894167
 Luca Sbisa,29,LD,ANA,2019-10-23,Standard,1-way,1,750000,750000
-Dillon Hamaliuk,18,LW,SJS,2019-10-24,Entry-Level,2-way,3,2825000,795000
-Alec Regula,18,RD,CHI,2019-11-11,Entry-Level,2-way,3,2775000,866667
-Peyton Krebs,18,"C, LW",VGK,2019-11-16,Entry-Level,2-way,3,4012500,894167
 Troy Brouwer,33,"LW, RW",STL,2019-11-21,Standard,2-way,1,750000,750000
-Brayden Tracey,18,LW,ANA,2019-11-27,Entry-Level,2-way,3,2775000,894167
 Stefan Noesen,26,"RW, LW",PIT,2019-12-03,Standard,2-way,1,700000,700000
-Kaedan Korczak,18,RD,VGK,2019-12-21,Entry-Level,2-way,3,2825000,795000
-Aidan Dudas,19,LW,LAK,2019-12-27,Entry-Level,2-way,3,2455000,786667
 Dalton Smith,27,LW,BUF,2019-12-30,Standard,2-way,1,700000,700000
-Nikita Okhotyuk,18,LD,NJD,2019-12-30,Entry-Level,2-way,3,2825000,795000
 Jake Walman,24,LD,STL,2020-11-19,Standard,2-way,2,1450000,725000
-Egor Sokolov,20,LW,OTT,2020-11-20,Entry-Level,2-way,3,2550000,818333
 Jake DeBrusk,23,LW,BOS,2020-11-23,Standard,1-way,2,7350000,3675000
 Juho Lammikko,24,"C, LW, RW",FLA,2020-11-24,Standard,2-way,1,725000,725000
 Mikhail Sergachev,22,LD/RD,TBL,2020-11-25,Standard,1-way,3,14400000,4800000
-Philip Kemp,21,RD,EDM,2020-11-25,Entry-Level,2-way,3,2360000,786667
 Philippe Myers,23,RD,PHI,2020-12-08,Standard,1-way,3,7650000,2550000
-Luke Prokop,18,RD,NSH,2020-12-09,Entry-Level,2-way,3,2460000,813333
 Jalen Chatfield,24,RD,VAN,2020-12-09,Standard,2-way,1,700000,700000
-Jack Finley,17,C,TBL,2020-12-12,Entry-Level,2-way,3,2775000,825833
-Gage Goncalves,19,C,TBL,2020-12-13,Entry-Level,2-way,3,2775000,825833
 Tyler Graovac,27,C,VAN,2020-12-13,Standard,2-way,1,700000,700000
 Andrew Hammond,32,G,MIN,2020-12-16,Standard,2-way,1,700000,700000
 Anthony Duclair,24,"LW, RW",FLA,2020-12-17,Standard,1-way,1,1700000,1700000
 Justin Bailey,24,RW,VAN,2020-12-17,Standard,2-way,1,750000,750000
-Mason Millman,18,LD,PHI,2020-12-18,Entry-Level,2-way,3,2700000,848333
 Oliver Kylington,23,LD,CGY,2020-12-18,Standard,2-way,1,787500,787500
 Roland McKeown,24,RD,CAR,2020-12-18,Standard,2-way,1,700000,700000
 Drake Caggiula,26,"LW, RW",ARI,2020-12-21,Standard,1-way,1,700000,700000
@@ -566,63 +260,17 @@ Mikael Granlund,28,"C, RW",NSH,2020-12-23,Standard,1-way,1,3750000,3750000
 Erik Haula,29,"C, LW",NSH,2020-12-23,Standard,1-way,1,1750000,1750000
 Mackenzie Blackwood,23,G,NJD,2020-12-23,Standard,1-way,3,8400000,2800000
 Anthony Cirelli,22,C,TBL,2020-12-24,Standard,1-way,3,14400000,4800000
-Dawson Mercer,18,RW,NJD,2020-12-24,Entry-Level,2-way,3,3975000,925000
 Slater Koekkoek,26,LD/RD,EDM,2020-12-26,Standard,1-way,1,850000,850000
 Carl Söderberg,34,"C, LW",CHI,2020-12-26,Standard,1-way,1,1000000,1000000
-Tim Stützle,18,"C, LW",OTT,2020-12-27,Entry-Level,2-way,3,10275000,925000
-Seth Jarvis,18,RW,CAR,2020-12-28,Entry-Level,2-way,3,4275000,925000
 Corey Perry,35,RW,MTL,2020-12-28,35+,1-way,1,750000,750000
 Andreas Athanasiou,25,"C, LW, RW",LAK,2020-12-28,Standard,1-way,1,1200000,1200000
 Ethan Bear,23,RD,EDM,2020-12-29,Standard,1-way,2,4000000,2000000
-Ridly Greig,17,LW,OTT,2020-12-29,Entry-Level,2-way,3,2775000,925000
-Jamieson Rees,19,C,CAR,2020-12-30,Entry-Level,2-way,3,2775000,853333
 Zdeno Chara,43,LD,WSH,2020-12-30,35+,1-way,1,1525000,795000
 Derick Brassard,32,"LW, C",ARI,2020-12-30,Standard,1-way,1,1000000,1000000
-Tristen Robins,18,C,SJS,2020-12-30,Entry-Level,2-way,3,2775000,859167
 Vince Dunn,23,LD/RD,STL,2020-12-31,Standard,1-way,1,1875000,1875000
 Pierre-Luc Dubois,22,C,CBJ,2020-12-31,Standard,1-way,2,10000000,5000000
-Connor Zary,18,C,CGY,2020-12-31,Entry-Level,2-way,3,3200000,925000
-Lukas Cormier,18,LD,VGK,2020-12-31,Entry-Level,2-way,3,2440000,813333
-Kirill Semyonov,26,C,TOR,2021-05-05,Entry-Level,2-way,1,825000,825000
-Elliot Desnoyers,19,LW,PHI,2021-05-05,Entry-Level,2-way,3,2625000,845833
-Nico Daws,20,G,NJD,2021-05-05,Entry-Level,2-way,3,2775000,850833
-Jakub Galvas,22,LD,CHI,2021-05-06,Entry-Level,2-way,2,1850000,867500
-Valtteri Puustinen,22,LW,PIT,2021-05-06,Entry-Level,2-way,2,1850000,842500
-Daemon Hunt,19,LD,MIN,2021-05-06,Entry-Level,2-way,3,2775000,850833
-Ryan O'Rourke,19,LD,MIN,2021-05-06,Entry-Level,2-way,3,2775000,886667
-Santeri Hatakka,20,LD,SJS,2021-05-10,Entry-Level,2-way,3,2775000,850833
 Cavan Fitzgerald,24,LD,CAR,2021-05-11,Standard,2-way,2,1500000,750000
-Simon Ryfors,23,"C, LW",TBL,2021-05-12,Entry-Level,2-way,1,925000,842500
-Adam Raska,19,"LW, RW",SJS,2021-05-12,Entry-Level,2-way,3,2700000,848333
-Rafaël Harvey-Pinard,22,LW,MTL,2021-05-12,Entry-Level,2-way,2,1650000,825000
 Henrik Borgström,23,C,CHI,2021-05-12,Standard,1-way,2,2000000,1000000
-Reece Newkirk,20,C,NYI,2021-05-13,Entry-Level,2-way,3,2485000,828333
-Luke Henman,21,C,SEA,2021-05-13,Entry-Level,2-way,3,2375000,791667
-Tuukka Tieksola,20,RW,CAR,2021-05-14,Entry-Level,2-way,3,2530000,823333
-Arvid Söderblom,21,G,CHI,2021-05-17,Entry-Level,2-way,2,1850000,883750
-Daniil Gushchin,19,LW,SJS,2021-05-17,Entry-Level,2-way,3,2775000,850833
-Akira Schmid,21,G,NJD,2021-05-17,Entry-Level,2-way,3,2775000,850833
-Jack Thompson,19,RD,TBL,2021-05-18,Entry-Level,2-way,3,2775000,850833
 Erik Källgren,24,G,TOR,2021-05-19,Standard,2-way,2,1500000,750000
-Eemil Viro,19,LD,DET,2021-05-19,Entry-Level,2-way,3,2775000,850833
-Jonatan Berggren,20,"C, RW",DET,2021-05-20,Entry-Level,2-way,3,2775000,925000
 Clark Bishop,25,C,OTT,2021-05-20,Standard,2-way,1,800000,800000
-Maxim Cajkovic,20,"RW, LW",TBL,2021-05-23,Entry-Level,2-way,3,2775000,850833
-Blake Murray,19,C,CAR,2021-05-24,Entry-Level,2-way,3,2375000,791667
-Jean-Luc Foudy,19,C,COL,2021-05-25,Entry-Level,2-way,3,2775000,878333
-Alex Beaucage,19,RW,COL,2021-05-26,Entry-Level,2-way,3,2775000,878333
-Trent Miner,20,G,COL,2021-05-27,Entry-Level,2-way,3,2485000,828333
-Ben McCartney,19,LW,ARI,2021-05-27,Entry-Level,2-way,3,2440000,813333
-Juuso Pärssinen,20,"LW, C",NSH,2021-05-28,Entry-Level,2-way,3,2775000,850833
-Vladimir Tkachev,25,"LW, RW",LAK,2021-05-29,Entry-Level,2-way,1,1775000,925000
-Vasily Podkolzin,20,RW,VAN,2021-05-30,Entry-Level,2-way,3,5325000,925000
 Jeff Malott,24,LW,WPG,2021-05-31,Standard,2-way,1,780000,780000
-Wyatt Newpower,23,RD,DET,2021-05-31,Entry-Level,2-way,2,1600000,800000
-Mason Primeau,19,C,VGK,2021-05-31,Entry-Level,2-way,3,2475000,825000
-Viktor Lodin,22,"C, LW",OTT,2021-06-01,Entry-Level,2-way,2,1660000,830000
-Karel Plasek,20,"LW, RW",VAN,2021-06-01,Entry-Level,2-way,3,2555000,846667
-Keean Washkurak,19,C,STL,2021-06-01,Entry-Level,2-way,3,2625000,862500
-Nils Lundkvist,20,RD,NYR,2021-06-03,Entry-Level,2-way,3,5325000,925000
-Mattias Norlinder,21,LD,MTL,2021-06-03,Entry-Level,2-way,3,2775000,859167
-Samuel Ersson,21,G,PHI,2021-06-03,Entry-Level,2-way,3,2775000,859167
-Andreas Wingerli,23,C,COL,2021-06-03,Entry-Level,2-way,1,925000,842500
