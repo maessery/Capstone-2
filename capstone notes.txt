@@ -109,7 +109,7 @@ FF% rel= relative fenwick for % ; ff%- ffoff%; on ice fenwick for % = off ice fe
 oish%= team on ice shooting percentage; shooting % while this plaer/team was on the ice
 oisv%= team on ice save percentage; save % while this player/team was on the ice 
 - -
-PDO= PDO; shooting% + save % ??????
+PDO= PDO; shooting% + save % ?????? ---> only takes into account shots wehre that player is on the ice
 -zone starts (ev)
 ozs%= ofensive zone start %; offensive zone faceoffs/(offensive zone faceoffs + defensive zone faceoffs), that took place while on the ice 
 dzs%= defensive zone start %; defensive zone faceoffs/ (offensive zone faceoffs + defensevie zone faceoffs)< that took place while on the ice 
