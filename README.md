@@ -1,4 +1,4 @@
-!(https://static0.thesportsterimages.com/wordpress/wp-content/uploads/2015/06/nhl_money1.jpg)
+![Salary Image](https://static0.thesportsterimages.com/wordpress/wp-content/uploads/2015/06/nhl_money1.jpg)
 
 
 # NHL-Salary-Predictor
