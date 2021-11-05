@@ -4,10 +4,11 @@
 # NHL-Salary-Predictor
 ## Springboard Data Science Career Track - Capstone 2
 
-How can a predictive salary model provide NHL teams a more efficient and consistent method for contract discussions between General Managers and Player Agents using all contractual and statistical data between the years of 2008 and 2021?
-
 
 ## 1. Problem Statement
+
+How can a predictive salary model provide NHL teams a more efficient and consistent method for contract discussions between General Managers and Player Agents using all contractual and statistical data between the years of 2008 and 2021?
+
 
 
 ## 2.  The Data
