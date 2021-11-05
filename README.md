@@ -137,9 +137,14 @@ Since Skaters (Center, Left Wing, Right Wing, Defensemen) have different perform
 ## 3. Target Audience: , Summary
 
 ## Data Wrangling
+
+
 ## EDA
 ## Data preparation and feature selection
 ## Model Performance
 ## Hyperparameter Tuning
 ## Conclusion
 ## Future Improvements
+- Including contract extensions (not just free agent signings), as well as predicting the likelihood of a player receiving a contract extension
+- Using team salary-cap data and predicting players' salary as a percentage of their respective team's payroll
+- Analyze contracts 
