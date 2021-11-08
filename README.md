@@ -1,11 +1,25 @@
 ![Salary Image](https://static0.thesportsterimages.com/wordpress/wp-content/uploads/2015/06/nhl_money1.jpg)
 
 
-# NHL-Salary-Predictor
-## Springboard Data Science Career Track - Capstone 2
-
+# NHL Salary Predictor
 
 ## 1. Problem Statement
+
+
+Contract negotiations in the NHL can be a lengthy, complex process, with General Managers trying to sign players for as little as possible while a player's agent aims to sign their client to the biggest contact they can. But which side's determination of that player's worth is the right one? Using machine learning I aim to resolve situations such as this by building a model that can output a salary based on 50 common and advanced player statistics. This would add higher degrees of efficiency and consistency to the business side of the game, as well as allow General Managers to accomplish more.
+
+
+Having this tool at their 
+With
+there being so many moving pieces every year between retirements, free agents, and trades, having this tool at their disposal would greatyly 
+In addition, this project would allow Genera
+
+General Managers are responsible for orchestrating the contract specifications for 30 players every year under the NHL's salary cap restrictions. Th
+
+. . Every contract needs to be tailored to 
+No two players are the same, so every contract
+requires an in-depth analysis 
+tailored to 
 
 How can a predictive salary model provide NHL teams a more efficient and consistent method for contract discussions between General Managers and Player Agents using all contractual and statistical data between the years of 2008 and 2021?
 
