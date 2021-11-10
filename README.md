@@ -7,7 +7,7 @@ Contract negotiations in the NHL can be a lengthy, complex process, with General
 
 ## **Table of Contents**
 1. Data
-- [LINK TO DATA DEFINITIONS]
+- [Abbreviations and Definitions](https://docs.google.com/document/d/1wPqpv3fuIx-fnLUT9muBoB09KdkrZXRkJ8vNzF9Lwqc/edit?usp=sharing)
 - [LINK TO DATA FOLDER contract data] This contains all the contract data obtained from www.capfriendly.com
 - [Link to data folder all player stats] This is all the statistical data for players between 2007 and 2020 from www.hockeyreference.com 
 2. Documents
