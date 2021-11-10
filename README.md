@@ -8,55 +8,20 @@ Contract negotiations in the NHL can be a lengthy, complex process, with General
 ## **Table of Contents**
 1. Data
 - [Abbreviations and Definitions](https://docs.google.com/document/d/1wPqpv3fuIx-fnLUT9muBoB09KdkrZXRkJ8vNzF9Lwqc/edit?usp=sharing)
-- [LINK TO DATA FOLDER contract data] This contains all the contract data obtained from www.capfriendly.com
-- [Link to data folder all player stats] This is all the statistical data for players between 2007 and 2020 from www.hockeyreference.com 
+- [Raw Data](https://github.com/maessery/NHL-Salary-Predictor/tree/master/Clean)
+- [Cleaned Data](https://github.com/maessery/NHL-Salary-Predictor/tree/master/Data)
+  -This contains all the contract data obtained from www.capfriendly.com
+  -This is all the statistical data for players between 2007 and 2020 from www.hockeyreference.com 
 2. Documents
-- [LINK to Final Report google doc]
+- [Final Report](https://docs.google.com/document/d/1FQXl_L6Xucv_T9_OJgHI8HW-YVghGVVuLRE3uYuS1F8/edit?usp=sharing)
 - [LINK to Presentation]
 3. Notebooks
-- Data Wrangling (link)
-- Exploratory Data Analysis
-- Modeling
+- Data Wrangling
+  - [Skaters](https://github.com/maessery/NHL-Salary-Predictor/blob/da2c71fabcf09737f74614a6ac413e5cc430f2c8/Notebooks/PlayerCleaning.ipynb)
+  - [Goalies](https://github.com/maessery/NHL-Salary-Predictor/blob/da2c71fabcf09737f74614a6ac413e5cc430f2c8/Notebooks/GoalieCleaning.ipynb)
+  - [Contracts](https://github.com/maessery/NHL-Salary-Predictor/blob/da2c71fabcf09737f74614a6ac413e5cc430f2c8/Notebooks/Salary_Cleaner.ipynb)
+- [Exploratory Data Analysis](https://github.com/maessery/NHL-Salary-Predictor/blob/98cccb316d8fa363a6de5edcd31e3b69f4ab0ba5/Notebooks/EDA.ipynb)
+- [Preprocessing and Modeling](https://github.com/maessery/NHL-Salary-Predictor/blob/da2c71fabcf09737f74614a6ac413e5cc430f2c8/Notebooks/Preprocessing%20&%20Modeling.ipynb)
 
 
 
-
-
-
-A tool like this would add higher degrees of efficiency, consistency, and transparency to the business side of the game. As a result, this will hopefully lower the chances of a bad contract to plague a team and 
-
-to the business side of the game
-
-best value/production per dollar
-
-
-Having this tool at their 
-With
-there being so many moving pieces every year between retirements, free agents, and trades, having this tool at their disposal would greatyly 
-In addition, this project would allow Genera
-
-General Managers are responsible for orchestrating the contract specifications for 30 players every year under the NHL's salary cap restrictions. Th
-
-. . Every contract needs to be tailored to 
-No two players are the same, so every contract
-requires an in-depth analysis 
-tailored to 
-
-How can a predictive salary model provide NHL teams a more efficient and consistent method for contract discussions between General Managers and Player Agents using all contractual and statistical data between the years of 2008 and 2021?
-
-
-
-## 3. Target Audience: , Summary
-
-## Data Wrangling
-
-
-## EDA
-## Data preparation and feature selection
-## Model Performance
-## Hyperparameter Tuning
-## Conclusion
-## Future Improvements
-- Including contract extensions (not just free agent signings), as well as predicting the likelihood of a player receiving a contract extension
-- Using team salary-cap data and predicting players' salary as a percentage of their respective team's payroll
-- Analyze contracts 
